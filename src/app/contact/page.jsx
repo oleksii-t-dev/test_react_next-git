@@ -11,7 +11,7 @@ import ContactForm from '../../components/forms/ContactForm';
 export default function Contact() {
   return (
     <div>
-      <h1 className="text-4xl poppins-bold text-center mb-3">Contact Us</h1>
+      <h1 className="text-4xl poppins-bold text-center mb-3">test_Contact Us</h1>
       <p className="text-center text-[#717171] mb-5 md:mb-12">
         Any question or remarks? Just write us a message!
       </p>
